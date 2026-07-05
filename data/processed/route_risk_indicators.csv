@@ -1,0 +1,41 @@
+route,2024,2025,yoy_growth_pct,region,haul_type,risk_flag
+Amsterdam-Bangkok,961.3,1086.4,13.0,Europe-Asia,Long-haul,False
+Atlanta-Los Angeles,714.9,768.6,7.5,North America,Medium-haul,False
+Bangkok-Singapore,1009.0,1012.0,0.3,Asia,Short-haul,True
+Beijing-Shanghai,940.6,997.5,6.0,Asia,Short-haul,False
+Bogota-Lima,868.2,898.4,3.5,Latin America,Medium-haul,False
+Cairo-Riyadh,1124.8,1413.9,25.7,MENA,Short-haul,False
+Chicago-New York,648.1,719.5,11.0,North America,Short-haul,False
+Doha-London,1069.7,1332.2,24.5,Middle East,Long-haul,False
+Dubai-London,1084.4,1154.1,6.4,Middle East,Long-haul,False
+Dubai-Mumbai,573.9,717.4,25.0,Middle East,Medium-haul,False
+Frankfurt-New York,871.0,904.8,3.9,Atlantic,Long-haul,False
+Frankfurt-Singapore,548.7,533.2,-2.8,Europe-Asia,Long-haul,True
+Hong Kong-San Francisco,1099.6,1174.3,6.8,Pacific,Long-haul,False
+Hong Kong-Taipei,986.1,936.6,-5.0,Asia,Short-haul,True
+Istanbul-Antalya,678.4,662.5,-2.3,Europe,Short-haul,True
+Istanbul-London,335.8,321.9,-4.1,Europe,Medium-haul,True
+Jeju-Seoul,550.3,644.5,17.1,Asia,Short-haul,False
+Johannesburg-London,933.2,1137.3,21.9,Africa-Europe,Long-haul,False
+Lagos-London,748.1,729.8,-2.4,Africa-Europe,Long-haul,True
+London-New York,440.9,453.3,2.8,Atlantic,Long-haul,True
+London-Paris,605.5,629.7,4.0,Europe,Short-haul,False
+Los Angeles-Sydney,773.5,811.2,4.9,Pacific,Long-haul,False
+Madrid-Buenos Aires,721.0,767.5,6.4,Atlantic,Long-haul,False
+Melbourne-Sydney,529.0,671.9,27.0,Oceania,Short-haul,False
+Mexico City-Cancun,961.5,976.0,1.5,Latin America,Short-haul,True
+Moscow-Sochi,479.2,559.8,16.8,Eurasia,Short-haul,False
+Mumbai-Delhi,718.3,924.6,28.7,Asia,Short-haul,False
+Mumbai-London,487.8,519.9,6.6,Asia-Europe,Long-haul,False
+New York-Los Angeles,519.2,637.7,22.8,North America,Medium-haul,False
+New York-Miami,480.3,528.1,10.0,North America,Medium-haul,False
+Paris-Dubai,332.4,392.6,18.1,Europe-ME,Long-haul,False
+Sao Paulo-Rio,477.7,448.7,-6.1,Latin America,Short-haul,True
+Seoul-Los Angeles,864.6,1022.4,18.3,Pacific,Long-haul,False
+Seoul-Tokyo,551.8,501.5,-9.1,Asia,Short-haul,True
+Singapore-Kuala Lumpur,450.1,506.7,12.6,Asia,Short-haul,False
+Sydney-Auckland,589.0,645.9,9.7,Oceania,Medium-haul,False
+Tokyo-Honolulu,921.5,1026.0,11.3,Pacific,Long-haul,False
+Tokyo-Sapporo,367.1,402.4,9.6,Asia,Short-haul,False
+Tokyo-Singapore,902.8,1178.1,30.5,Asia,Long-haul,False
+Toronto-Vancouver,723.5,639.2,-11.7,North America,Medium-haul,True
